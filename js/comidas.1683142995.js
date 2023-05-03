@@ -35,3 +35,34 @@ const tapas = [
         image: "img/patatas-bravas.jpg",
     },
 ];
+
+const bocadillos = [
+    {
+        name: "Entrepà de llom amb formatge",
+        price: "5,50€",
+        image: "img/bocadillo-lomo-queso.jpg"
+    },
+    {
+        name: "Entrepà de bacó amb formatge",
+        price: "4,50€",
+        image: "img/bocadillo-bacon-queso.jpg"
+    },
+    {
+        name: "Frankfurt",
+        price: "4,50€",
+        image: "img/frankfurt.jpg"
+    },
+];
+
+const torradas = [
+    {
+        name: "Torrada de pernil",
+        price: "6,25€",
+        image: "img/torrada-jamon.jpg"
+    },
+    {
+        name: "Torrada de bacó amb formatge",
+        price: "4,75€",
+        image: "img/torrada-bacon-queso.jpg"
+    },
+];
